@@ -1,5 +1,4 @@
 # Animated_Login_Screen
- Animated login screen using HTML and CSS
 
 Animated login screen using HTML and CSS with futuristic and dynamic layout.
 
